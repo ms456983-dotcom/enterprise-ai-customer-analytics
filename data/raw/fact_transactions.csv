@@ -1,0 +1,94 @@
+Customer_ID,Transaction_Date,Amount,Payment_Method,Transaction_Type
+1,2023-01-15,79.99,Credit Card,Monthly Bill
+1,2023-02-15,79.99,Credit Card,Monthly Bill
+1,2023-03-15,79.99,Credit Card,Monthly Bill
+2,2023-01-20,99.99,Bank Transfer,Monthly Bill
+2,2023-02-20,99.99,Bank Transfer,Monthly Bill
+2,2023-03-20,99.99,Bank Transfer,Monthly Bill
+3,2023-01-10,119.99,Credit Card,Monthly Bill
+3,2023-02-10,119.99,Credit Card,Monthly Bill
+3,2023-03-10,119.99,Credit Card,Monthly Bill
+4,2023-01-25,69.99,PayPal,Monthly Bill
+4,2023-02-25,69.99,PayPal,Monthly Bill
+5,2023-01-05,139.99,Bank Transfer,Monthly Bill
+5,2023-02-05,139.99,Bank Transfer,Monthly Bill
+5,2023-03-05,139.99,Bank Transfer,Monthly Bill
+6,2023-01-30,89.99,Credit Card,Monthly Bill
+6,2023-02-28,89.99,Credit Card,Monthly Bill
+7,2023-01-12,129.99,Bank Transfer,Monthly Bill
+7,2023-02-12,129.99,Bank Transfer,Monthly Bill
+8,2023-01-18,74.99,PayPal,Monthly Bill
+8,2023-02-18,74.99,PayPal,Monthly Bill
+9,2023-01-08,109.99,Credit Card,Monthly Bill
+9,2023-02-08,109.99,Credit Card,Monthly Bill
+10,2023-01-22,84.99,Bank Transfer,Monthly Bill
+10,2023-02-22,84.99,Bank Transfer,Monthly Bill
+11,2023-01-14,79.99,Credit Card,Monthly Bill
+11,2023-02-14,79.99,Credit Card,Monthly Bill
+12,2023-01-19,124.99,Bank Transfer,Monthly Bill
+12,2023-02-19,124.99,Bank Transfer,Monthly Bill
+13,2023-01-11,94.99,Credit Card,Monthly Bill
+13,2023-02-11,94.99,Credit Card,Monthly Bill
+14,2023-01-26,64.99,PayPal,Monthly Bill
+15,2023-01-03,149.99,Bank Transfer,Monthly Bill
+15,2023-02-03,149.99,Bank Transfer,Monthly Bill
+16,2023-01-16,104.99,Credit Card,Monthly Bill
+16,2023-02-16,104.99,Credit Card,Monthly Bill
+17,2023-01-09,134.99,Bank Transfer,Monthly Bill
+17,2023-02-09,134.99,Bank Transfer,Monthly Bill
+18,2023-01-23,72.99,PayPal,Monthly Bill
+19,2023-01-07,144.99,Credit Card,Monthly Bill
+19,2023-02-07,144.99,Credit Card,Monthly Bill
+20,2023-01-21,99.99,Bank Transfer,Monthly Bill
+20,2023-02-21,99.99,Bank Transfer,Monthly Bill
+21,2023-01-13,89.99,Credit Card,Monthly Bill
+21,2023-02-13,89.99,Credit Card,Monthly Bill
+22,2023-01-17,139.99,Bank Transfer,Monthly Bill
+22,2023-02-17,139.99,Bank Transfer,Monthly Bill
+23,2023-01-24,76.99,PayPal,Monthly Bill
+24,2023-01-06,154.99,Credit Card,Monthly Bill
+24,2023-02-06,154.99,Credit Card,Monthly Bill
+25,2023-01-04,129.99,Bank Transfer,Monthly Bill
+25,2023-02-04,129.99,Bank Transfer,Monthly Bill
+26,2023-01-27,69.99,PayPal,Monthly Bill
+27,2023-01-02,134.99,Credit Card,Monthly Bill
+27,2023-02-02,134.99,Credit Card,Monthly Bill
+28,2023-01-20,109.99,Bank Transfer,Monthly Bill
+28,2023-02-20,109.99,Bank Transfer,Monthly Bill
+29,2023-01-12,119.99,Credit Card,Monthly Bill
+29,2023-02-12,119.99,Credit Card,Monthly Bill
+30,2023-01-25,67.99,PayPal,Monthly Bill
+31,2023-01-08,149.99,Bank Transfer,Monthly Bill
+31,2023-02-08,149.99,Bank Transfer,Monthly Bill
+32,2023-01-18,99.99,Credit Card,Monthly Bill
+32,2023-02-18,99.99,Credit Card,Monthly Bill
+33,2023-01-10,144.99,Bank Transfer,Monthly Bill
+33,2023-02-10,144.99,Bank Transfer,Monthly Bill
+34,2023-01-22,74.99,PayPal,Monthly Bill
+35,2023-01-05,159.99,Credit Card,Monthly Bill
+35,2023-02-05,159.99,Credit Card,Monthly Bill
+36,2023-01-28,84.99,Bank Transfer,Monthly Bill
+37,2023-01-14,124.99,Credit Card,Monthly Bill
+37,2023-02-14,124.99,Credit Card,Monthly Bill
+38,2023-01-26,66.99,PayPal,Monthly Bill
+39,2023-01-09,139.99,Bank Transfer,Monthly Bill
+39,2023-02-09,139.99,Bank Transfer,Monthly Bill
+40,2023-01-16,114.99,Credit Card,Monthly Bill
+40,2023-02-16,114.99,Credit Card,Monthly Bill
+41,2023-01-11,129.99,Bank Transfer,Monthly Bill
+41,2023-02-11,129.99,Bank Transfer,Monthly Bill
+42,2023-01-27,59.99,PayPal,Monthly Bill
+43,2023-01-04,164.99,Credit Card,Monthly Bill
+43,2023-02-04,164.99,Credit Card,Monthly Bill
+44,2023-01-19,94.99,Bank Transfer,Monthly Bill
+44,2023-02-19,94.99,Bank Transfer,Monthly Bill
+45,2023-01-13,119.99,Credit Card,Monthly Bill
+45,2023-02-13,119.99,Credit Card,Monthly Bill
+46,2023-01-24,79.99,PayPal,Monthly Bill
+47,2023-01-07,134.99,Bank Transfer,Monthly Bill
+47,2023-02-07,134.99,Bank Transfer,Monthly Bill
+48,2023-01-17,104.99,Credit Card,Monthly Bill
+48,2023-02-17,104.99,Credit Card,Monthly Bill
+49,2023-01-03,139.99,Bank Transfer,Monthly Bill
+49,2023-02-03,139.99,Bank Transfer,Monthly Bill
+50,2023-01-21,72.99,PayPal,Monthly Bill

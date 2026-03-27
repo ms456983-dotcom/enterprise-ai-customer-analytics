@@ -1,0 +1,67 @@
+{
+  "quality_report": {
+    "total_customers": 50,
+    "total_transactions": 93,
+    "total_usage_records": 93,
+    "total_engagement_events": 93,
+    "avg_transactions_per_customer": 1.86,
+    "avg_usage_records_per_customer": 1.86,
+    "avg_engagement_events_per_customer": 1.86,
+    "churn_rate": null,
+    "avg_monthly_charges": 108.65,
+    "avg_tenure": 26.82
+  },
+  "insights": {
+    "demographics": {
+      "avg_age": 37.3,
+      "gender_distribution": {
+        "Male": 25,
+        "Female": 25
+      },
+      "location_distribution": {
+        "New York": 13,
+        "California": 13,
+        "Texas": 13,
+        "Florida": 11
+      },
+      "contract_distribution": {
+        "Two Year": 21,
+        "Month-to-Month": 15,
+        "One Year": 14
+      }
+    },
+    "financial": {
+      "avg_monthly_charges": 108.65,
+      "avg_total_charges": 3317.3518,
+      "revenue_by_contract": {
+        "Month-to-Month": 683.3106666666666,
+        "One Year": 2873.297857142857,
+        "Two Year": 5494.845714285714
+      }
+    },
+    "usage": {
+      "avg_data_usage": 96.23666666666666,
+      "avg_call_minutes": 347.6,
+      "avg_messages": 266.23333333333335,
+      "avg_streaming_hours": 39.75666666666667
+    },
+    "engagement": {
+      "avg_engagement_time": 142.26,
+      "avg_engagement_count": 1.86
+    },
+    "churn_analysis": {
+      "churn_rate": 0.54,
+      "churn_by_contract": {
+        "Month-to-Month": 0.9333333333333333,
+        "One Year": 0.5714285714285714,
+        "Two Year": 0.23809523809523808
+      },
+      "churn_by_location": {
+        "California": 0.46153846153846156,
+        "Florida": 0.8181818181818182,
+        "New York": 0.5384615384615384,
+        "Texas": 0.38461538461538464
+      }
+    }
+  }
+}
